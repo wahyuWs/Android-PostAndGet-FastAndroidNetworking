@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crud Fan</string>
+    <string name="input_nim">Masukan Nim</string>
+    <string name="input_nama">Masukan Nama</string>
+    <string name="input_umur">Masukan Umur</string>
+    <string name="save">Save</string>
+    <string name="input_message">Data tidak boleh kosong</string>
+    <string name="title_nim">Nim: </string>
+    <string name="title_name">Nama: </string>
+    <string name="title_age">Umur: </string>
+    <string name="view_data">View Data</string>
+</resources>
