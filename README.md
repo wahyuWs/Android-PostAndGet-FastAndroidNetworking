@@ -1,5 +1,3 @@
-# Fast Android Networking
-
 # Database
 database -> https://www.mediafire.com/file/esy96sek1xvr36u/tes_retrofit.sql/file
 import in phpmyadmin
